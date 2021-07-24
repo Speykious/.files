@@ -1,0 +1,64 @@
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.cache/zhistory
+HISTSIZE=10000
+SAVEHIST=100000
+setopt autocd extendedglob nomatch
+unsetopt beep notify
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/speykious/.zshrc'
+
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+
+export SUDO_EDITOR=nvim
+
+# Aliases
+let () {
+  $@ &>/dev/null </dev/null &; disown
+}
+
+alias c=clear
+alias cla='clear; and la'
+alias duh='du -hs'
+alias DUH='du -h'
+alias kast='tmux kill-ses -a && tmux kill-ses'
+alias tear='clear && tmux clear-history'
+alias tla='tear && la'
+alias yeet='yay -R'
+alias yup='yay -Syu --noconfirm'
+alias E='sudo -e'
+[[ -o interactive ]] && alias rm='rm -I'
+
+SPACEFISH_GIT_SYMBOL=' '
+
+# Git Aliases
+alias g=git
+alias ga='git add'
+alias gd='git diff'
+alias gs='git status'
+alias gc='git commit'
+alias gcm='git commit -m'
+alias gcam='git commit -am'
+alias gp='git push'
+alias gpl='git pull'
+alias gl='git log'
+
+# Plugins
+for dir in /usr/share/zsh/plugins/*; do
+  . "$dir/$(basename $dir).zsh"
+done
+
+zmodload zsh/complist
+zstyle ':completion:*' menu select=0 search
+
+ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor)
+
+typeset -A ZSH_HIGHLIGHT_STYLES
+ZSH_HIGHLIGHT_STYLES[path]='fg=magenta'
+ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=bright-red'
+ZSH_HIGHLIGHT_STYLES[command]='fg=white,bold'
+
+eval "$(starship init zsh)"
