@@ -1,0 +1,7 @@
+configuration {
+	modi: "ssh,drun,calc,window";
+	show-icons: true;
+	terminal: "alacritty";
+	theme: "simp.rasi";
+  drun-use-desktop-cache: true;
+}

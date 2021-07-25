@@ -1,0 +1,58 @@
+/**
+ * @name Simp
+ * @author Speykious#7435
+ * @version 1.0.0
+ * @description Personal fork of Frosted Glass.
+ * @authorId 358960666238910465
+ * @website https://github.com/Speykious/
+*/
+
+@import url("https://discordstyles.github.io/FrostedGlass/base.css");
+
+/* BlackBox tags */
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+
+:root {
+  --background-image: none;
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+
+  /* Popout & Modal variables */
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+
+  /* Home image variables */
+  --home-button-image: url('https://cdn.discordapp.com/avatars/358960666238910465/9dd117153cbfdc62122e9a74696a80eb.webp');
+  --home-button-size: cover;
+  --home-button-position: center;
+
+  /* Brightness variables */
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.75;
+
+  /* Gradient variables */
+  --gradient-primary: 158,25,93;
+  --gradient-secondary: 75,9,46;
+  --gradient-direction: 320deg;
+
+  /* Tint variables */
+  --tint-colour: 72,72,96;
+  --tint-brightness: 0.8;
+
+  /* Other variables */
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --scrollbar-colour: rgba(158,25,93,0.5);
+  --link-colour: rgb(158,25,93);
+  --show-gift-gif-buttons: none;
+
+  --font: 'Roboto', 'JetBrainsMono Nerd Font';
+
+  --update-notice-1: none;
+}

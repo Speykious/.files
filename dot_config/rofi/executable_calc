@@ -1,0 +1,3 @@
+#!/bin/sh
+
+result=$(rofi -show calc) && [ -n "$result" ] && echo "$result" | xclip -sel clip

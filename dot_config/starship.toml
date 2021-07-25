@@ -1,0 +1,13 @@
+[git_branch]
+symbol = " "
+
+[directory]
+fish_style_pwd_dir_length = 1
+
+[package]
+disabled = true
+
+[status]
+disabled = false
+symbol = "× "
+map_symbol = true
