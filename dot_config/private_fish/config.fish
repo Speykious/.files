@@ -20,7 +20,7 @@ alias tear 'clear && tmux clear-history'
 alias tla 'tear && la'
 alias yeet 'yay -R'
 alias yup 'yay -Syu --noconfirm'
-alias E 'sudo -EH'
+alias E 'sudo -e'
 status is-interactive && alias rm 'rm -I'
 
 set SPACEFISH_GIT_SYMBOL ' '

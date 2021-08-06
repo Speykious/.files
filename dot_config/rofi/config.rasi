@@ -1,5 +1,5 @@
 configuration {
-	modi: "ssh,drun,calc,window";
+	modi: "ssh,drun,calc,window,emoji";
 	show-icons: true;
 	terminal: "alacritty";
 	theme: "simp.rasi";

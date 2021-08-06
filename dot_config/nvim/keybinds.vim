@@ -4,7 +4,12 @@ let mapleader=' '
 " The Sauce and the Sauce Tree
 nnoremap <leader>i :source ~/.config/nvim/init.vim<CR>
 map <leader>$ :set termguicolors!<CR>
-map ² :Lex<CR>
+
+" Barbar Buffer things
+nnoremap ² :call v:lua.tree_toggle()<CR>
+vnoremap ² :call v:lua.tree_toggle()<CR>
+nnoremap <leader>q :BufferClose<CR>
+vnoremap <leader>q :BufferClose<CR>
 
 " Cool editor maps
 nnoremap <M-Up> :m .-2<CR>
@@ -40,8 +45,8 @@ nnoremap <silent> <A-h> <C-w>H<CR>
 nnoremap <silent> <A-j> <C-w>J<CR>
 nnoremap <silent> <A-k> <C-w>K<CR>
 nnoremap <silent> <A-l> <C-w>L<CR>
-nnoremap <C-h> gT
-nnoremap <C-l> gt
+nnoremap <C-h> :BufferPrevious<CR>
+nnoremap <C-l> :BufferNext<CR>
 
 " Searching
 " nnoremap / /\v
