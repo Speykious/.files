@@ -18,6 +18,8 @@ set wrap linebreak expandtab incsearch ignorecase smartcase showmatch
 set completeopt=menuone,noinsert,noselect
 set background=dark
 set termguicolors
+set t_Co=256
+set ttyfast
 set mouse=a
 syntax on
 
@@ -26,6 +28,7 @@ luafile ~/.config/nvim/nvim-tree-conf.lua
 source ~/.config/nvim/keybinds.vim
 au BufNewFile,BufRead *.duml set ft=yaml
 au BufNewFile,BufRead *.tmux.conf set ft=tmux
+au FileType java lua require('jdtls').start_or_attach({cmd = {'java-lsp.sh'}})
 
 " Signify config
 set updatetime=85
@@ -53,6 +56,9 @@ nnoremap ;s :call SynStack()<CR>
 let bufferline = get(g:, 'bufferline', {})
 let bufferline.auto_hide = v:true
 let bufferline.tabpages = v:false
+
+" Annoying nvim-tree quirk fix
+let g:nvim_tree_tab_open = 1
 
 " NO! FUCKING! BACKGROUND! AMIRITE
 hi Normal ctermbg=NONE guibg=NONE

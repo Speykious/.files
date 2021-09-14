@@ -11,6 +11,12 @@ function hisc
   history | sed -n "$1p"
 end
 
+function tmux-wdir
+  set dir (pwd)
+  [ -e "$1" ]; and set dir "$1"
+  tmux attach-session -c "$dir" -t (tmux display-message -p '#S')
+end
+
 alias c clear
 alias cla 'clear; and la'
 alias duh 'du -hs'
@@ -36,7 +42,7 @@ alias gcm 'git commit -m'
 alias gcam 'git commit -am'
 alias gp 'git push'
 alias gpl 'git pull'
-alias gl 'git log'
+alias glg 'git log --graph --oneline'
 
 # opam configuration
 source ~/.opam/opam-init/init.fish > /dev/null 2> /dev/null; or true
@@ -51,4 +57,5 @@ scheme set dracula
 
 thefuck --alias | source
 
-freshfetch
+# ... Yeah I'm tired of having to wait for freshfetch to finish everytime I open the shell :/
+# freshfetch

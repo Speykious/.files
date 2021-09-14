@@ -16,6 +16,7 @@ require('packer').startup(function()
   use 'simrat39/rust-tools.nvim'
   use 'kchmck/vim-coffee-script'
   use 'dag/vim-fish'
+  use 'mfussenegger/nvim-jdtls'
   use { 'nvim-treesitter/nvim-treesitter', run = ':TSUpdate' }
   use 'mhinz/vim-signify'
   use 'tpope/vim-fugitive'
@@ -28,7 +29,6 @@ require('packer').startup(function()
   use 'romgrk/barbar.nvim'
   use 'kyazdani42/nvim-tree.lua'
 	use 'itchyny/lightline.vim'
-	use { 'EdenEast/Revolution.vim', as = 'revolution' }
   use 'Speykious/simp.vim'
 end)
 
@@ -121,8 +121,9 @@ for _, lsp in ipairs(servers) do
   nvim_lsp[lsp].setup { on_attach = on_attach }
 end
 
+local lspconfig = require'lspconfig'
 local pid = vim.fn.getpid()
-require'lspconfig'.omnisharp.setup {
+lspconfig.omnisharp.setup {
     cmd = { "omnisharp", "--languageserver" , "--hostPID", tostring(pid) },
     on_attach = on_attach,
 }

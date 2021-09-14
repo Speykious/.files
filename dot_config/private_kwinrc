@@ -4,7 +4,6 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 [Compositing]
 GLCore=true
 OpenGLIsUnsafe=false
-WindowsBlockCompositing=false
 
 [Desktops]
 Id_1=85a6f7bc-6f6f-4e51-b0ad-c95c85fbbf3b
@@ -48,6 +47,9 @@ ShowText=false
 
 [Effect-MouseMark]
 Color=255,206,60
+
+[Effect-PresentWindows]
+BorderActivateAll=9
 
 [ElectricBorders]
 TopLeft=None
