@@ -1,0 +1,77 @@
+#Alacritty:
+
+env:
+  TERM: xterm-256color
+
+window:
+  padding:
+    x: 0
+    y: 0
+
+  dynamic_padding: true
+  decoration: none
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+
+  bold:
+    family: JetBrainsMono Nerd Font
+
+  italic:
+    family: JetBrainsMono Nerd Font
+
+  bold_italic:
+    family: JetBrainsMono Nerd Font
+
+  size: 10.5
+
+colors:
+  # Default colors
+  primary:
+    background: '0x10000f'
+    foreground: '0xefcfe9'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x212121'
+    cursor: '0xeeffff'
+
+  # Normal colors
+  normal:
+    black:   '0x0b000a'
+    red:     '0xa62843'
+    green:   '0x306b3d'
+    yellow:  '0x98971a'
+    blue:    '0x223974'
+    magenta: '0x9c165a'
+    cyan:    '0x60c2cd'
+    white:   '0xefcfe9'
+
+  # Bright colors
+  bright:
+    black:   '0x976e95'
+    red:     '0xff1c46'
+    green:   '0x76f7a9'
+    yellow:  '0xb8bb26'
+    blue:    '0x418a9e'
+    magenta: '0xeaa6dd'
+    cyan:    '0x84e3de'
+    white:   '0xfff9ff'
+
+background_opacity: 0.95
+
+cursor:
+  style:
+    shape: Underline
+    blinking: On
+
+live_config_reload: true
+                 
+key_bindings:
+  - { key: Key0, mods: Control, action: ResetFontSize }
+  - { key: Equals, mods: Control, action: IncreaseFontSize }
+  - { key: Minus, mods: Control, action: DecreaseFontSize }
+  - { key: C, mods: Control|Shift, action: Copy }
+  - { key: V, mods: Control|Shift, action: Paste }
+  - { key: T, mods: Control|Shift, action: SpawnNewInstance }
