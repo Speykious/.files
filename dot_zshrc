@@ -15,13 +15,18 @@ compinit
 
 export SUDO_EDITOR=nvim
 
-# Aliases
+# Handiest function ever
 let () {
   $@ &>/dev/null </dev/null &; disown
 }
 
+eval `ssh-agent` &>/dev/null </dev/null
+ssh-add ~/.ssh/*_rsa ~/.ssh/aur &>/dev/null </dev/null
+
+# Aliases
 alias c=clear
-alias cla='clear; and la'
+alias la='lsd -lAh --group-dirs first'
+alias cla='clear && la'
 alias duh='du -hs'
 alias DUH='du -h'
 alias kast='tmux kill-ses -a && tmux kill-ses'
@@ -47,9 +52,12 @@ alias gpl='git pull'
 alias gl='git log'
 
 # Plugins
-for dir in /usr/share/zsh/plugins/*; do
-  . "$dir/$(basename $dir).zsh"
-done
+plugdir=/usr/share/zsh/plugins/
+if [ -d $plugdir ] && [ "$(ls -A $plugdir)" ]; then
+  for dir in /usr/share/zsh/plugins/*; do
+    . "$dir/$(basename $dir).zsh"
+  done
+fi
 
 zmodload zsh/complist
 zstyle ':completion:*' menu select=0 search
