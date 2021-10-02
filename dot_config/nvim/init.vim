@@ -57,8 +57,5 @@ let bufferline = get(g:, 'bufferline', {})
 let bufferline.auto_hide = v:true
 let bufferline.tabpages = v:false
 
-" Annoying nvim-tree quirk fix
-let g:nvim_tree_tab_open = 1
-
 " NO! FUCKING! BACKGROUND! AMIRITE
 hi Normal ctermbg=NONE guibg=NONE
