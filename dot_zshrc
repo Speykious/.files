@@ -49,7 +49,7 @@ alias gcm='git commit -m'
 alias gcam='git commit -am'
 alias gp='git push'
 alias gpl='git pull'
-alias gl='git log'
+alias glg='git log --graph --oneline'
 
 # Plugins
 plugdir=/usr/share/zsh/plugins/
