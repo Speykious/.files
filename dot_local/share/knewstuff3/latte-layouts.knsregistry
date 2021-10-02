@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="417">
+  <name>Edna Layout</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1417204</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>72</rating>
+  <downloads>19720</downloads>
+  <installedfile>/home/speykious/.local/share/latte-layouts/Edna.layout.latte</installedfile>
+  <id>1417204</id>
+  <releasedate>2020-08-30</releasedate>
+  <summary>Latte Layout with 2 floating docks, top dock integrating with maximized windows and latte SideBar OnDemand.&lt;br />
+&lt;br />
+Latte-Dock GitHub version https://github.com/KDE/latte-dock&lt;br />
+&lt;br />
+Bottom Latte:&lt;br />
+Latte Separator - https://www.pling.com/p/1295376&lt;br />
+Virtual Desktop Bar -...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/7/d/a/58002c29162011d7892945836caa8e123936aea2cca363a92cd0941dd4f11a6a060e.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/7/d/a/58002c29162011d7892945836caa8e123936aea2cca363a92cd0941dd4f11a6a060e.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg4MjYxMzYiLCJvIjoiMSIsInMiOiJlZjY0NzljODM3YmY5ZTUyYjUxMGMzMDdmMWFjNjBlODc1YjNkM2M1ZGIyZTIwN2JlNzBhMTVmZGUyMjA3ZDA3ZDNmYmY0YjJmMjJkOWQ5OGRiZTU2ZDNmZjM5MDBiMDQ2ZTNlYjllNDdmMmJiMDAyOGJhOGE2ZGM0YTBmOWY0MyIsInQiOjE2MTM1ODc1NzcsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.xqk-Vuj8DQqoAYBHPYdCq8eIluZbpmxdBLUwQZqV0RM/Edna.layout.latte</payload>
+  <tags>extension,dock,unix,linux,latte,lgplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

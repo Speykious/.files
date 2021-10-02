@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>YAPLASS ArchLinux</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>MrMaire</author>
+  <homepage>https://store.kde.org/p/1477196</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>2899</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/look-and-feel/YaplassArchLinux</installedfile>
+  <id>1477196</id>
+  <releasedate>2021-01-31</releasedate>
+  <summary>YAPLASS (Yet Another Plasma Splash Screen) - ArchLinux version</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/f/9/f/209940151719f31ed26fe7190ba6ac2e5bd9df48516086b1cc0c27f8e87c8d38b122.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/f/9/f/209940151719f31ed26fe7190ba6ac2e5bd9df48516086b1cc0c27f8e87c8d38b122.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIxMzQ0OTMiLCJvIjoiMSIsInMiOiIyNGE2ZTU3NzJhMDhlM2FmOTU1Mjc4MjgwODVlNDNhNzgzYmVjMmI4YWVhZTY3MTYzMDhiNzNiMDNlY2I4YzAyNmMyMDEyYTI1NjhmYzM4ZWI1YmYyOGM1OThlNGQ2ODI1ZTNmNDc5ODg4MTI3MjdjNTg2OWY0MDNiZTU4OWRkOCIsInQiOjE2MTcyNzcxMDksInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.DsOfp7UvUMiweMua7881M4r5D1woICFS4TZxeIaBj3E/YaplassArchLinux.tar.gz</payload>
+  <tags>archlinux,plasma,splashscreen,linux,unix,theme,kde,plasma##majorversion=5,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="399">
+  <name>Plasma Fancy Clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>anoneemouse</author>
+  <homepage>https://store.kde.org/p/1174881</homepage>
+  <licence></licence>
+  <version>5.0</version>
+  <rating>63</rating>
+  <downloads>8918</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/plasmoids/org.kde.fancyclock</installedfile>
+  <id>1174881</id>
+  <releasedate>2020-03-22</releasedate>
+  <summary>A customizable clock for your desktop!&lt;br />
+Change: &lt;br />
+- Fonts&lt;br />
+- Colors&lt;br />
+- Letter spacing&lt;br />
+- Opacity</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/a/2/1/74649008bc1dd1cc37c48011aee81aa63c47.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/a/2/1/74649008bc1dd1cc37c48011aee81aa63c47.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODQ5MDQ2MzYiLCJvIjoiMSIsInMiOiIxZDc1NjgxYTNlNzE4ZDQ2ODM3YWFhMjkzNjViMmMyZjFjNzFmMzE4YzdiM2M4YjAxYzk4NjFhYTRhNTJkZjU2MzQ3ZmY5NDEwMWIyM2MxYTQxODljNTgwNGQyYTdmMmE0YWY3NGIwYWJkZDdkZDMzODhmNjUzYmI0YTdhYjM3ZCIsInQiOjE2MDYwMDMyNzYsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.Vs35msJPwFP-zxcMyjZ0Iez_qGbOfAREPlbE8vIPy1Q/org.kde.fancyclock.tar.gz</payload>
+  <tags>linux,unix,extension,clock,plasma##majorversion=5,widget,kde,plasma,gplv2,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="420">
+  <name>panon</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rbn43</author>
+  <homepage>https://store.kde.org/p/1326546</homepage>
+  <licence></licence>
+  <version>0.4.2</version>
+  <rating>84</rating>
+  <downloads>7332</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/plasmoids/panon</installedfile>
+  <id>1326546</id>
+  <releasedate>2020-06-29</releasedate>
+  <summary>This is an audio spectrum analyzer.&lt;br />
+&lt;br />
+Version 0.4.2:&lt;br />
+* Requirements: &lt;br />
+OpenGL &amp;gt;= 3.0 &lt;br />
+KDE Framework &amp;gt;= 5.63&lt;br />
+* Required packages for ArchLinux:&lt;br />
+sudo pacman -S qt5-websockets python-docopt python-numpy python-pyaudio python-cffi python-websockets &lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/a/8/1/358ffb06b680ea4b279796819147a50e90fc.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/a/8/1/358ffb06b680ea4b279796819147a50e90fc.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM0NDk4MTUiLCJvIjoiMSIsInMiOiI3OWMxYWM1NDkwNDhiMmIxZWU5OWZkZjU5ODljNDNiMGEzM2FlMDllYmZkYjAyYTkzYTYyZTBjNDM5M2YzYzhmNjQ0MDE1YTAzZmJhMzRhYTczMWU4MjFjZDZhMDA5NmJlYTZkMWYwZjAzYjJiYjhjNmJiNjg1MWQ0MGU4Y2EwMSIsInQiOjE2MDYwMDc3NzQsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.E1C7JcuzRqvJ0YZ0h8QNOoxChUef6GQcFYv1P01KP7Y/panon-0.4.2.plasmoid</payload>
+  <tags>gplv3,original-product,spectrum,music,visualizer,linux,unix,extension,kde,plasma,plasma##majorversion=5,widget,multimedia</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Window Title Applet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1274218</homepage>
+  <licence></licence>
+  <version>0.6.0</version>
+  <rating>88</rating>
+  <downloads>50888</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/plasmoids/org.kde.windowtitle</installedfile>
+  <id>1274218</id>
+  <releasedate>2020-01-23</releasedate>
+  <summary>This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;br />
+You can install this applet directly from Plasma 5 Widgets Explorer</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/c/4/e/df37cd6683d84974770df2c1641a819bd5c5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/c/4/e/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzk3OTc0NTgiLCJvIjoiMSIsInMiOiIxNjNmYTFmYmJmZGVlMTNiNGVmZDkwMTZmYjlkZmMzMjk3Nzc3NDBmY2ZmODVmY2U1Yzc4YjU3YjBmMzEyNGQ2ZmZlMWVhMzgzZGRhZDMyMjI5YWFhNzhhY2ViZTVjNmMzMGIxMGQ3MTM1ZTFmM2Q4NjlkMzNkM2FjY2JkZjczNCIsInQiOjE2MDYwMDMyMTQsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.xDlG6_F4MGlykss3_tRudNKzGUsWuZfbQcIxrm4UlvE/applet-window-title-0.6.0.plasmoid</payload>
+  <tags>plasma##majorversion=5,panel,plasma,original-product,title,kde,gplv2,linux,extension,unix,widget,window</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

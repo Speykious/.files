@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Borderline</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>tguen</author>
+  <homepage>https://store.kde.org/p/1217715</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>68</rating>
+  <downloads>11142</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/borderline/*</installedfile>
+  <id>1217715</id>
+  <releasedate>2018-03-05</releasedate>
+  <summary>A black window border with a thin line on the edge. For the active window the line is Breeze-blue, for inactive windows it is gray. These colors can be changed by editing a single line in ~/.local/share/aurorae/themes/borderline/decoration.svg. Button icons are similar to Breeze. They turn light...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/c/e/8/d200a4bf7c3da4f27f223748a7dcd85ec57e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/c/e/8/d200a4bf7c3da4f27f223748a7dcd85ec57e.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjAyOTQ1MTYiLCJvIjoiMSIsInMiOiJkNzA3OGUxMTM4NTY0ZjZlMDkzYWEyMWQ1OWVjNDhjODBlYmE2YmJmYzZkOTA1ZTVhNzIwYzdlOGNkZjVjZWU1NTBiM2JmOGE3ODYwMWZlYzc1YTE5ZWRmODkwZTAwMjExMThhN2IxYmIwMTE3MGZhN2Y4MDMxODVmMzMzNDkxOCIsInQiOjE2MjIyOTI2NTIsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.J0BlzxFadVl4WKd9WMd87WeWwadfElDZEYi4abpfICA/borderline.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Photo</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>wsdfhjxc</author>
+  <homepage>https://store.kde.org/p/1355354</homepage>
+  <licence></licence>
+  <version>0.4</version>
+  <rating>70</rating>
+  <downloads>520</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Photo/*</installedfile>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Photo Extended/*</installedfile>
+  <id>1355354</id>
+  <releasedate>2020-06-23</releasedate>
+  <summary>Photo is a simple Aurorae window decoration for KDE Plasma.&lt;br />
+&lt;br />
+The theme has two slightly different variants, which are Photo and Photo Extended.&lt;br />
+&lt;br />
+Note: There is no titlebar, buttons or drag handles. Just a white frame, that makes windows look like photos.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/e/1/7/5525d154fb8c772834ef1287a8e4e94e6ed0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/e/1/7/5525d154fb8c772834ef1287a8e4e94e6ed0.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5MDE4NTgiLCJvIjoiMSIsInMiOiIyNjNhODkxMmVkYWJmOTU4YzE5ZTVjNjM4NjIwYmRkZmVlZDVkYjYzMDdhOWJiODdkNDg0MGUyZmJiMWIwMjVmYzIwYWM5ZDAwYjg3ZjljYmIyNDcyMWUxNDcxYjhhZWI1ZjZkMjc1ODYzYTNkNGI3MzM0ZjQzOWVkZmFhYWFmZCIsInQiOjE2MTM2ODY2NDgsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.jCUcnDYVRd0zIWpeGdO85Tr_CP6FkyWqCPVepA6EETc/Photo.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,minimal,simple,white,border,frame,cc-by,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Lavender-Kvantum-Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457359</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>6463</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Lavender-Kvantum-Aurorae/*</installedfile>
+  <id>1457359</id>
+  <releasedate>2020-12-09</releasedate>
+  <summary>&lt;strong>Dark Aurorae Theme, Customized for the Kvantum Theme&lt;span style="color: #636393;"> &lt;strong>Lavender-Kvantum&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1457367/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Nature&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373768/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373760/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat-2&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373763/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong> Celestial Silhouette 28 4K Wallpaper &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1272737/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>Plasma Desktop Wallpaper 1795 4K HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1410034" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>KDE Plasma Scenery 111 HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1328062/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/3/5/8/5f07b90c267caa89b723ef779555902acafa43c27d3fab9cad1816bf8ec69c5ba0e0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/3/5/8/5f07b90c267caa89b723ef779555902acafa43c27d3fab9cad1816bf8ec69c5ba0e0.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDc1MDY1MTgiLCJvIjoiMSIsInMiOiJlMDY4MzVkZGE4ZDNhNzE1MWZmOGU5NDQ1MDdkZjhmOTJmYTA4YTI3NWRhZDlmMmRjNGFkOTI1NTM0OThhN2MwOTU5NDc3YWU5YjFlNTk1ZjU5NmRhNWFjMDYyMDM1NDdhNDA2ZmJjZjg3NTJhNDY0OTQ1ZjI1ZWY4MDBiNjNiNyIsInQiOjE2MTM2OTA0NTEsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.5Rzzz29SgVecnRrkw-gshbhEa-P_Lb9N4KF-dMafwiw/Lavender-Kvantum-Aurorae.zip</payload>
+  <tags>gplv3,efi,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Glassy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>pr0cella</author>
+  <homepage>https://store.kde.org/p/1355991</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>58236</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Glassy/*</installedfile>
+  <id>1355991</id>
+  <releasedate>2020-02-01</releasedate>
+  <summary>Glassy - A transparent Aurorae theme&lt;br />
+&lt;br />
+Requires Kvantum with Glassy theme for matching Qt backgrounds&lt;br />
+&lt;br />
+Full repo with all themes: https://github.com/Pr0cella/glassy-kde&lt;br />
+&lt;br />
+Suggested Settings:&lt;br />
+&lt;br />
+Kvantum theme: Glassy&lt;br />
+Colors: Glassy&lt;br />
+Aurorae...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/3/6/7/e6444c9e15585592491c22c0e0c985a356a6.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/3/6/7/e6444c9e15585592491c22c0e0c985a356a6.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA1ODc4NTciLCJvIjoiMSIsInMiOiJhZGI2YTc1YzliNDI3ZjFjNGFjMGNmY2M2YzRmOTk3NGMxZTVjZDliNzZmZmY1MTEyMGY0ZjEwNWYxYzI3NDMwMjg3MjQ3YjllNmVkZjAyMGVhNjdhOWUxY2NmN2YxMDViYmYzMjBiOWQ2MGRiODgzNWM2YjY5ZWVkYWYxZGY1MiIsInQiOjE2MTM1MzY3NzMsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.W5PaEC-pzwX-GOdqFsLLsY5yE-vy-b0mrgraCA8UdOY/Glassy.tar.gz</payload>
+  <tags>theme,unix,plasma,cc-by-sa,windowdeco,modification-product,linux,kde,aurorae</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Lavender-Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457360</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>6607</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Lavender-Aurorae/*</installedfile>
+  <id>1457360</id>
+  <releasedate>2020-12-09</releasedate>
+  <summary>&lt;strong>Dark Aurorae Theme, Customized for the PlasmaTheme&lt;span style="color: #636393;"> &lt;strong>Lavender-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1457369/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Nature&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373768/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373760/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat-2&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373763/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong> Celestial Silhouette 28 4K Wallpaper &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1272737/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>Plasma Desktop Wallpaper 1795 4K HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1410034" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>KDE Plasma Scenery 111 HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1328062/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/3/5/8/5f07b90c267caa89b723ef779555902acafa7615d7c1ae36164a37c017f009b57228.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/3/5/8/5f07b90c267caa89b723ef779555902acafa7615d7c1ae36164a37c017f009b57228.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDc1MDYzNzUiLCJvIjoiMSIsInMiOiI3NDI2MzY2YTU0Yzg2ZDNmZWQ4NjJlZjY1MDViNDY0YTlmYTY4ODBlYzM5Yzk5ODc5NDBjMzgwOGRiMTA5M2U0MGIwYWVkNTI4NDRiYzVkM2E5NjQxZGM4ZTEzN2I2NDhhZDVkNzVkYzhlOGU2MjA4MjEwOTM1ODE3NTM5OTAxZSIsInQiOjE2MTM2OTA0NDksInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.LhPvHhLM0XigHdSY83FMCN1ZBIr5O9EF4UjxBLTksNo/Lavender-Aurorae.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Glassy Rounded</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>pr0cella</author>
+  <homepage>https://store.kde.org/p/1356183</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>60</rating>
+  <downloads>4196</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Glassy/*</installedfile>
+  <id>1356183</id>
+  <releasedate>2020-02-02</releasedate>
+  <summary>Glassy Rounded - A transparent Aurorae theme with rounded corners&lt;br />
+&lt;br />
+Requires Kvantum with Glassy theme for matching Qt backgrounds&lt;br />
+&lt;br />
+Full repo with all themes: https://github.com/Pr0cella/glassy-kde&lt;br />
+&lt;br />
+Suggested Settings:&lt;br />
+&lt;br />
+Kvantum theme: Glassy&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/0/c/3/c846380131e6cd47d7317cfc5becd8fb8ad0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/0/c/3/c846380131e6cd47d7317cfc5becd8fb8ad0.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA2NzA1MzciLCJvIjoiMSIsInMiOiI2OTBmZGJkN2M2NWM2NThjZjAyNjI4NWNlYTEwOGQxMzI2MDk2YTI2MmRiM2E0MGM2OWI1OGZlOTliN2M1OTJlMGY1YmE2MzY3NTVmYmI2YThlY2NhODk5YjczMjZmOGQ5YmY4NTAwOGM2MDY5YzVkMTJkNmYxNGIzOTczNWIyZCIsInQiOjE2MTM1MzY3NzksInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.bXuQHsu9rAWFQ_-yD4dv_Z_ByqMBiQ46J4lD-gRlXoE/Glassy.tar.gz</payload>
+  <tags>theme,unix,plasma,windowdeco,aurorae,modification-product,linux,gplv2-later,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Reversal-dark Aurorae Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1471814</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2709</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/Reversal-dark/*</installedfile>
+  <id>1471814</id>
+  <releasedate>2021-01-17</releasedate>
+  <summary>Reversal kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+    &lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/e/6/0/9dc4e28e73dcae14d390a50f66f71cec59402eaa93887cda2324ab23e317a62df963.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/e/6/0/9dc4e28e73dcae14d390a50f66f71cec59402eaa93887cda2324ab23e317a62df963.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTA5MDQ0MzkiLCJvIjoiMSIsInMiOiJiYzI0MGJjYWVlOTNkNWUwY2UwZjY1M2RkOTBhNDBhOGM4YzYxN2MxYTY3YmUyNWM3NDNlMzUzZmE3MmM4NGIxYTExOGY5ZTVlODc5YTQ0NGM3ZTI1NDdlZDEwMzMwMzg1ZDc5ZjZlOTRkNWEyNWE5NjRiZTBhM2ZmNjQwM2Q3YyIsInQiOjE2MTM1MzY3OTEsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.LV3h5MSWPd1NYpUWYN0pJp3y1YazwZNWeZHZpxoPnXI/Reversal-dark.zip</payload>
+  <tags>original-product,plasma,unix,theme,gplv3,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>ROUNDED</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1354960</homepage>
+  <licence></licence>
+  <version>20200127</version>
+  <rating>70</rating>
+  <downloads>27801</downloads>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/ROUNDED/*</installedfile>
+  <installedfile>/home/speykious/.local/share/aurorae/themes/ROUNDED-DARK/*</installedfile>
+  <id>1354960</id>
+  <releasedate>2020-01-27</releasedate>
+  <summary>Aurorae Theme inspired by Breeze style.&lt;br />
+All elements &amp;amp; icons have rounded corners.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/6/d/d/4c8201556ba7dff51791e53b38d63c7b9e5b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/6/d/d/4c8201556ba7dff51791e53b38d63c7b9e5b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODAxMDU4NTIiLCJvIjoiMSIsInMiOiIwYTRiMjY1MjM0MTIwM2Q4MGI2OTgyMzFmODQyNTgxNjM1OTc1YTkzYjc2ZjNjYTM2MGE3YmQ3YTY3ZDgzNGViMmMyNWIyM2FiNGRkZTYxMWRmM2Y2NDUyMWM2MTQ3MDQwZDhlOTY4YTNjMzgwY2U0ZDQ5YjhlZjUwYmZmZDEyNSIsInQiOjE2MTM1MzY3NzAsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.mb8j5bGZSenedjQYt9Gg1T4rwjaZwrarip2zUfAH4Wc/rounded.tar.gz</payload>
+  <tags>breeze,dark,plasma,rounded,original-product,theme,unix,kde,linux,gplv3,light</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

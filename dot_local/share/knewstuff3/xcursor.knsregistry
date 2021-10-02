@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Future-dark cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1457884</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>6122</downloads>
+  <installedfile>/home/speykious/.icons/Future-dark-cursors/*</installedfile>
+  <id>1457884</id>
+  <releasedate>2020-12-10</releasedate>
+  <summary>Future-dark cursors for linux desktops&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>KDE theme&lt;/strong>&lt;br />
+------------------------------&lt;br />
+&lt;strong>Lyra Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1461000/" target="_blank" rel="nofollow">https://www.pling.com/p/1461000/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/7/7/c/f0db86e8e3b2939bc8a543f2ed1877c901b25aec418b1a829eafd17d76a4b1120451.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/7/7/c/f0db86e8e3b2939bc8a543f2ed1877c901b25aec418b1a829eafd17d76a4b1120451.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDc2MDQyODEiLCJvIjoiMSIsInMiOiIxMzNjNWRkZGUyOGIyNDliYjg4YzFlYWM4YzNmMTE0OTY5OGNmNWQ5MjMxMWFmN2JmOTIxYmQ3ODVjY2YzYmNjN2Y3M2QxYmM1N2U0YjA4NTUzMTJjOTM1MjVmY2ZlOTQ4ZWU2ZmUyZjU5NzdmZDU0NjM5Mzk3ZDAwYzM4MDgwMiIsInQiOjE2MTM2NzcyNDEsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.DbtT6Vm20CaDEKBJNmLO9AaJbUXpfmAvQkiLqi7gUYw/Future-dark-cursors.tar.gz</payload>
+  <tags>original-product,gplv3,linux,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

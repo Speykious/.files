@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Reversal icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1340791</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>91</rating>
+  <downloads>4277</downloads>
+  <installedfile>/home/speykious/.local/share/icons/Reversal-black/*</installedfile>
+  <installedfile>/home/speykious/.local/share/icons/Reversal-black-dark/*</installedfile>
+  <id>1340791</id>
+  <releasedate>2021-02-09</releasedate>
+  <summary>&lt;strong>Reversal Icon Theme&lt;/strong>&lt;br />
+A colorful Design Rectangle icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+You can now select the Download folder color&lt;br />
+------------------------------&lt;br />
+Github: https://github.com/yeyushengfan258/Reversal-icon-theme&lt;br />
+------------------------------&lt;br />
+&lt;strong>Inverse Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1353584/" target="_blank" rel="nofollow">https://www.pling.com/p/1353584/&lt;/a>&lt;br />
+&lt;strong>Inverse-dark Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1354181/" target="_blank" rel="nofollow">https://www.pling.com/p/1354181/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong>Based on&lt;/strong>&lt;br />
+1. numix-icon-theme-circle:&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme:&lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme:&lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/d/1/2/f6c46f46c846d60723497034b517b17d80a9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/d/1/2/f6c46f46c846d60723497034b517b17d80a9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI4OTk2NzQiLCJvIjoiMSIsInMiOiJkNzU0ZGYyODAzODg3ZWJhNTBlMmY0ZGZiMjdjNjM5NGI4MjNkNjhmYjNjMzdhZjQxNGFjZDNiZWVmNDNmNWI0YzFkZTZmNmVmYWI2NmFkMGI5MGJhZTVlZmFiMjQxNDlkMGRmNzIwNGE4NDdmM2Q0Y2VmMDhjZmJkMDE4ZWJiYyIsInQiOjE2MTM2NzcyMTUsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.-62nG6nQhVnDqDuALU30FAG9GZbZc0OGUQq4Vc5vciE/Reversal-black.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Lavender-Dark-Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457364</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>1306</downloads>
+  <installedfile>/home/speykious/.local/share/icons/Lavender-Dark-Icons/*</installedfile>
+  <id>1457364</id>
+  <releasedate>2021-02-02</releasedate>
+  <summary>&lt;strong>Icons for Dark Plasma Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Plasma&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/1457369/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #636393;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457363/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457366/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457365/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+----------------------&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+______________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Nature&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373768/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373760/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat-2&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373763/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong> Celestial Silhouette 28 4K Wallpaper &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1272737/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>Plasma Desktop Wallpaper 1795 4K HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1410034" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>KDE Plasma Scenery 111 HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1328062/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/4/5/9/73f48317135166021d5ae65688248b489874c9169cbcab87d37213918300907dcd43.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/4/5/9/73f48317135166021d5ae65688248b489874c9169cbcab87d37213918300907dcd43.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIyODExMDMiLCJvIjoiMSIsInMiOiJhNTE1OTA1MzM2MjVkZDBjZGE3MTdjNmM0ZmQ4ZWM5MmRkOTJlYjg4MmEzNmQ3MWM1OWY0NTc4YzZiYWNmY2Q4OTcwZGUwZjRkZjRhODRlYjdhNjkwNGUxZmY5YjYwZTM5NzVmNzc3OTY2YzA2YThjZTc2ZjljN2Y4ZWE4ZGVkYSIsInQiOjE2MTM2OTA0OTYsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.V3beLeuKJJP6xIKTg9kZA6q4NHTVSjDhGdPuBAp9FNw/Lavender-Dark-Icons.tar.gz</payload>
+  <tags>linux,unix,icon-theme,efi,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1281798</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>78</rating>
+  <downloads>70247</downloads>
+  <installedfile>/home/speykious/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
+  <id>1281798</id>
+  <releasedate>2020-09-26</releasedate>
+  <summary>The folders change color depending on the&lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze Chameleon Dark Icons&lt;/strong> &lt;/span>&lt;br />
+(Icons for Dark Plasma Themes)&lt;br />
+ &lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The icons are based on the Default "Breeze" Icon Theme.&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes:&lt;br />
+&lt;br />
+&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Charlie-Henson &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/7/5/7/74f39172376b3e9f683f6fbc92c088b3b4591191087990da0b721c1ffea86c9e7296.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/7/5/7/74f39172376b3e9f683f6fbc92c088b3b4591191087990da0b721c1ffea86c9e7296.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDExNDIxNjkiLCJvIjoiMSIsInMiOiI1N2I2MTBhOTViYmY1MGUwM2ZmZmU0M2YyMzYwOTBjM2QzMWExMWUwODVhMDMwNGYxNTdkZDhkMjY1MGEyOTY4MGYwODdhMTE0OTVlMGI0NzIxNmZiMWI0NWI2ZTMyYWFiMTBmY2U5MzNlZDVkZWRkNTIyZWQ1MTc5OGMzMmI2MyIsInQiOjE2MDYwMDEwMjMsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.iAytwD4DhNnbMb1GzPdgvnY_7GNOvCdmaoxuQWaGQ34/Breeze Chameleon Dark.tar.gz</payload>
+  <tags>linux,unix,icon-theme,gplv3,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Lavender-Light-Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457363</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>1056</downloads>
+  <installedfile>/home/speykious/.local/share/icons/Lavender-Light-Icons/*</installedfile>
+  <id>1457363</id>
+  <releasedate>2021-02-02</releasedate>
+  <summary>&lt;strong>Icons for Light Plasma Themes  &lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #636393;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457364/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457366/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457365/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+----------------------&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+______________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Nature&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373768/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373760/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat-2&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373763/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong> Celestial Silhouette 28 4K Wallpaper &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1272737/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>Plasma Desktop Wallpaper 1795 4K HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1410034" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>KDE Plasma Scenery 111 HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1328062/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/b/b/bb6f78224636ec2c0c892fd088b26a889439f45b22cc214f6232dfc119d3bacc0d9f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/b/b/bb6f78224636ec2c0c892fd088b26a889439f45b22cc214f6232dfc119d3bacc0d9f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIyODEyNjciLCJvIjoiMSIsInMiOiI2M2ZlNDQ5M2IzZGEwOWY5MmI2YTc4OGQ3NTMzNDdlN2QwOTAzNjViMWU4YzQ0MjkwMDhhMTE4NjE3MTdjOTgzNmI3ZDQxZjUxMzIxYmQ3ODIyM2UzMGRmN2EzYmE1NmEwM2Y4ZmViYWRkNzBjMzA4YjYzOWViMzA0ZjZjY2Q0MCIsInQiOjE2MTM2OTA1MTcsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.vysdNbTUP5Zo2uEgRKKorWrl_o4eLEhfIju_RhTQjrg/Lavender-Light-Icons.tar.gz</payload>
+  <tags>gplv3,efi,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="624">
+  <name>rbn42-glowbar</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rbn43</author>
+  <homepage>https://store.kde.org/p/1351952</homepage>
+  <licence></licence>
+  <version>0.3.1</version>
+  <rating>67</rating>
+  <downloads>337</downloads>
+  <installedfile>/home/speykious/.local/share/panon/rbn42-glowbar/*</installedfile>
+  <id>1351952</id>
+  <releasedate>2020-06-13</releasedate>
+  <summary>Requires panon 0.4.1.&lt;br />
+Suggested height is 32px.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/1/8/cc3c50659645e4e184abe9fa0c3bc60b17a0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/1/8/cc3c50659645e4e184abe9fa0c3bc60b17a0.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTIwNjQ2MzYiLCJvIjoiMSIsInMiOiIzMjc1NWE1YWI1NDFjMTkyMjE2N2Y3M2YyZjQ3ODRlZWYxOGM4MWJjMDJhNjAyZmJmMWYzZjg4NzRlNTYwYjYzZjE0NzA1ODFhYTlkMjM0OTQzMDI5NzEwMjIyMDAyM2Q3ZmVjMDA2ZWQ3NDk4YTEyMmI1OWQ2YzYxYjM3YjFkNiIsInQiOjE2MDYwMTQ4MDEsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.H5Y6GCbSDt0RG6dplIxVHY_exDVYxAre-DfZf9nrfVg/rbn42-glowbar.tgz</payload>
+  <tags>gplv3,original-product,panon,linux,unix,extension,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

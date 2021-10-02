@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Lim Green - Less is more</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>darkomarko42</author>
+  <homepage>https://store.kde.org/p/1463550</homepage>
+  <licence></licence>
+  <version>0.2.1</version>
+  <rating>70</rating>
+  <downloads>171</downloads>
+  <installedfile>/home/speykious/.themes/Lim Green/*</installedfile>
+  <installedfile>/home/speykious/.themes/Lim Green Dark/*</installedfile>
+  <id>1463550</id>
+  <releasedate>2021-02-05</releasedate>
+  <summary>Lim GTK theme with green color scheme (support budgie desktop, mate, xfce,unity and pantheon)&lt;br />
+&lt;br />
+0.2.1&lt;br />
+fix notebooks&lt;br />
+fix buttons state background colors&lt;br />
+new floating bars&lt;br />
+new messagedialog style&lt;br />
+new raven top bar buttons style&lt;br />
+fix disabled text&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/6/a/6/317a4e70cc79572119e6fedb4a3bf7e2747eb351bd3a94d497ee808789b87dd64fd4.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/6/a/6/317a4e70cc79572119e6fedb4a3bf7e2747eb351bd3a94d497ee808789b87dd64fd4.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI1Mjc1ODAiLCJvIjoiMSIsInMiOiJlN2YwOThjN2RhYWZiNDhjZmM5MmYyNTI5YjI3MjZlNGU5Y2ZiMTllZWRlOGFkYmVlYjMzZWFhZTMxNzBmODQzY2Y2MGY4YjAxYjdhY2NlMGI1MjkzYTc0YTVlOGU0ZWQxNDdhODNhOTJlZTNjNjViMTAzMTBlMzZmMjYwMzg0YiIsInQiOjE2MTM1MzY2MzEsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.iQUDQHyeNiiFSaZRU75wJnbPpHFK4TsMP8hP21q8qZY/Lim Green.tar.xz</payload>
+  <tags>unix,original-product,theme,flat,budgie,linux,gnome,gplv3,green,lim,minimal</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Lim Red - Less is more</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>darkomarko42</author>
+  <homepage>https://store.kde.org/p/1481645</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>67</rating>
+  <downloads>86</downloads>
+  <installedfile>/home/speykious/.themes/Lim Red/*</installedfile>
+  <installedfile>/home/speykious/.themes/Lim Red Dark/*</installedfile>
+  <id>1481645</id>
+  <releasedate>2021-02-12</releasedate>
+  <summary>a red variant for Lim GTK theme for budgie desktop (also support mate, xfce4, unity and pantheon)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/c/a/8/41f46523d0cdb98816a8835722caa29ed0fcc77b2774b070714ee13b5b90ba7b5889.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/c/a/8/41f46523d0cdb98816a8835722caa29ed0fcc77b2774b070714ee13b5b90ba7b5889.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTMxNzk3MjIiLCJvIjoiMSIsInMiOiI0YzM0NTI1NDk2MGUxNmNlMzc2YmNiZTE4ZjcwMmYwMWFkODU3OTZmZTU4MjgyYWYxY2ZjNDRiOWQ4MzA3M2ZkNTc4MWY1ZmY5YzcxZDA4OTZiZmRlYzNjYTVlOTc4ZDY5YmYwZTU1YmM5ZTM5MDIyYjI4ZjU5ODYxM2UzZTExMSIsInQiOjE2MTM1MzY1NzUsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.BCHaMT_HhTWGO7d507wdKjwTSfRsQ3pWrrtbBKpctCM/Lim Red.tar.xz</payload>
+  <tags>budgie,flat,unix,red,theme,original-product,linux,gnome,gplv3,gtk-3,minimal</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>RR Dark GTK</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>cp3o</author>
+  <homepage>https://store.kde.org/p/1470646</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1032</downloads>
+  <installedfile>/home/speykious/.themes/RR-Dark-GTK/*</installedfile>
+  <id>1470646</id>
+  <releasedate>2021-02-09</releasedate>
+  <summary>&lt;strong> RR  Dark GTK &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong> code style adapted / Based / &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong> from the mcOS 11 GTK and Shell theme &lt;/strong>&lt;br />
+&lt;a href="https://www.pling.com/p/1220826/" target="_blank" rel="nofollow">https://www.pling.com/p/1220826/&lt;/a>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/1/7/b/d2c0d8ed6690249a6dba3d9a80c2087bbaf934f16b7529be2b3e3b24cb737bdbea94.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/1/7/b/d2c0d8ed6690249a6dba3d9a80c2087bbaf934f16b7529be2b3e3b24cb737bdbea94.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI4NzcxMzMiLCJvIjoiMSIsInMiOiIzODg4NzlmYTliOTQ2YzU0ZGE4ZmUxN2I3Yzg1MmU0OWFkNjBmYmIzZGQ4N2IzYTA5Zjg2YmVmZjQzNzhkYmViYTEyNTM5YjFlMjdmM2EyMzZlNDRlODhiN2VkZGRlNTMxNzI0OWZlODVmODk1NzM2YzBkODFlNDZkNTM1NjNjYiIsInQiOjE2MTM1MzY2MTYsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.mBrj4hY4axJKLU3Poqc408kUK1oI7jPAsYGFU9jivPI/RR-Dark-GTK-20210209131137.tar.xz</payload>
+  <tags>efi,linux,gnome,gplv3,gtk,unix,theme,gtk2,gtk3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Whiskers Super Transparency MOD for XFCE4.16</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sdanielch</author>
+  <homepage>https://store.kde.org/p/1482600</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>50</rating>
+  <downloads>76</downloads>
+  <installedfile>/home/speykious/.themes/gtk.css</installedfile>
+  <id>1482600</id>
+  <releasedate>2021-02-15</releasedate>
+  <summary>This add new transparency and rounded corner to whiskers menu, install this file in $HOME/.config/gtk-3.0/gtk.css and put transparency 98 or minus on config whiskers for activate this mod.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/9/2/0/2a03472a154d33ae981a2815b1c33c8fd018ca20d556789690a594baa3bbfc372910.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/9/2/0/2a03472a154d33ae981a2815b1c33c8fd018ca20d556789690a594baa3bbfc372910.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTM0MzQ2NDYiLCJvIjoiMSIsInMiOiJhNzBjODRiNjVjNGEzNjNlZGRmY2VmZTEyNmZkOWIwYzFiOWE2MTc1ODVkMmI1NDhjMzA0MTA0MjQyYjU0Y2IwMWMwZjRmODM2MjA3MjU0NzdlYzJhODA3M2YyNmExNTExM2Y4ZTk4MGI0ZWFmODhlMmVjYzY1ODczYjg2ZDU0MSIsInQiOjE2MTM1MzY1NjgsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.OjLraw4tNKFTKXt5c2tBOMHafDLccJ-sjNzXz2z7GZc/mod-whisker-menu.tar.gz</payload>
+  <tags>apache-license,launcher,original-product,whiskers,xfce4</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

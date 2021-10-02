@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Infinity-Solid-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1439906</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>75</rating>
+  <downloads>4159</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Infinity-Solid-Plasma</installedfile>
+  <id>1439906</id>
+  <releasedate>2020-11-13</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, No Transparent and No Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Dark Plsama Theme  &lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+TRANSPARENT and BLUR&lt;br />
+_____________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436570/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436567/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+___________________ &lt;br />
+&lt;br />
+Icons: &lt;span style="color: #08a19d;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #08a19d;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Kvantum&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1439902/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel) &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1439913/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Plasma Color Scheme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436564/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Color Scheme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436562/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1439900/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-SDDM&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436554/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436556/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Konsole&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436551/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-GTK&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/1436585/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #08a19d;"> &lt;strong>Starry Nebula 108 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1241434" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/c/3/3/50c2215ee47c8e4eefd9097cdd457adf47b3f13afe7428f346d5bb3bc6f2ed8f82b9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/c/3/3/50c2215ee47c8e4eefd9097cdd457adf47b3f13afe7428f346d5bb3bc6f2ed8f82b9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDUyNTk0NDUiLCJvIjoiMSIsInMiOiJhYmFiMmVkNjc4YzZlM2Y5Nzg3NzYxYTFkMWI3N2M1Zjc1Y2Y0YjQ0N2E2ZDAxOGMzMGJiMzRjNDU0N2NjYTliZDg0NzA0ZTk5ZGE1N2FkYzVmMmI0MDEwY2ZmMmQ1NzM5M2EzYmNmYmY0NzgzOGRmMGZhNzNhYTcwZTlhNWY0OCIsInQiOjE2MDYwMDA5OTYsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.uy-Eq3S_pdNNTXcgsZOImbCfOkCkFDF0_9PYinmK2sA/Infinity-Solid-Plasma.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Edna</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1117813</homepage>
+  <licence></licence>
+  <version>2.2</version>
+  <rating>77</rating>
+  <downloads>4969</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Edna</installedfile>
+  <id>1117813</id>
+  <releasedate>2020-11-13</releasedate>
+  <summary>New version of the Jomada FitDark theme, completely renewed, now with a new name, and many changes.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/f/9/3/b794a8464f1218713f51e6f5d7b064f6fff7f1b333948e3f32958152839405d79c40.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/f/9/3/b794a8464f1218713f51e6f5d7b064f6fff7f1b333948e3f32958152839405d79c40.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDUzMTQ1NjMiLCJvIjoiMSIsInMiOiIwZWUyOTQ0NmU0ODZmYWFhNDZiNDU0YzM5MzI5OWI4YTU1NTQwMWFkY2NiMzdhYjNkODIzYWQzMGI3ODVmOWEwMmU1ZjIyMWVjNzBhYmEzMzdjNzQxNzc4OGQxZTlmZmVlOGI3ZTExOGZhNjg4YTkyYTdjZTUxY2NkYTk1Mzk0NyIsInQiOjE2MDYwMDEwMzQsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.h--PNSzZd7Jax7u_iidLunufG7oEsiY95hhNctiVIv4/Edna.tar.gz</payload>
+  <tags>linux,unix,kde,plasma,theme,lgplv3,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Lavender-Solid-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1458569</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>1172</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Lavender-Solid-Plasma</installedfile>
+  <id>1458569</id>
+  <releasedate>2021-02-02</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, NO Transparent and NO  Blur.&lt;br />
+______________________________________________&lt;br />
+&lt;br />
+Dark Plasma Theme Transparent and Blur &lt;span style="color: #636393;"> &lt;strong>Lavender-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457369/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+______________________________________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457364/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457363/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457366/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457365/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+___________________ &lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel) &lt;span style="color: #636393;"> &lt;strong>Lavender-Solid-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1458571/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Solid-Kvantum&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1458568/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Plasma Color Scheme &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457362/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Color Scheme &lt;span style="color: #636393;"> &lt;strong>Lavender-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457361/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457360/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Blur Aurorae Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Kvantum-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457359/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #636393;"> &lt;strong>Lavender-SDDM&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457355/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #636393;"> &lt;strong>Lavender-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457352/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #636393;"> &lt;strong>Lavender-Konsole&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457344/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Breeze-GTK&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457372/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Nature&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373768/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373760/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat-2&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373763/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong> Celestial Silhouette 28 4K Wallpaper &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1272737/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>Plasma Desktop Wallpaper 1795 4K HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1410034" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>KDE Plasma Scenery 111 HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1328062/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/d/7/6/52397b61c589340af93ad3253d6f4314baf22920908aa204e5f8215490d48d2ebef8.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/d/7/6/52397b61c589340af93ad3253d6f4314baf22920908aa204e5f8215490d48d2ebef8.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIyODE3NzgiLCJvIjoiMSIsInMiOiJiYjNjZWQxYWI5ZWY5YjFmNjk3N2Y5NWM4NDQyNmI2ZGNhNjQ0YWE5YzNkNDM1MDRmOWY3MGRiYzM1YTMxNzcwYjVjMjhhMmQ3NTJmNGI0NTgzNzJhYWQ1ZDNiZjhjMTg2MmEwYmZlOWVjZmM5ODVkNTA5YmY4M2Y3NTk2ZDVlYyIsInQiOjE2MTM2OTA0NDUsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.8rtAUIBDp9iCM5ANW-aBXfmTGMvh1xHO048jVqztJ0U/Lavender-Solid-Plasma.zip</payload>
+  <tags>efi,gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Amethyst</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1322963</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>9528</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Amethyst</installedfile>
+  <id>1322963</id>
+  <releasedate>2019-11-08</releasedate>
+  <summary>&lt;strong>&lt;span style="color: fuchsia;"> Amethyst &lt;/span> is the purple variety of quartz and is a popular gemstone. If it were not for its widespread availability, amethyst would be very expensive. The name &lt;span style="color: fuchsia;"> Amethyst &lt;/span> comes from the Greek and means "not...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/1/1/d/4229820bf7489696e8b6fc493a0bb8b286fd.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/1/1/d/4229820bf7489696e8b6fc493a0bb8b286fd.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzMyMDQwOTgiLCJvIjoiMSIsInMiOiI4OThlY2ExMDFkOGM0MWQyYjlkOGQ5YzFiYjEyM2ExNTFhZmNiODIxMzRjMDVhYzQ5ZWNlMTQ0YWE2YWQ4MmM2ZmMwZDI4MWM2OGQ0M2Q1NWY1YjU0MmUyMjllMjk0NDMxOTY3NDdiZDIyZWFmYjMwZDg4NjNkOTRkYWVhZWIwOSIsInQiOjE2MTM1MzY0MDQsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.vcaPYlTQZvH4HRzNnwAI_3mDtK1UvivAQZAaBOK_weM/Amethyst.tar.gz</payload>
+  <tags>plasma,unix,theme,kde,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Infinity-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436579</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>4506</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Infinity-Plasma</installedfile>
+  <id>1436579</id>
+  <releasedate>2020-11-13</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Dark Plasma Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1439906/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+No Transparent and  No Blur&lt;br />
+___________________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436570/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436567/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+___________________ &lt;br />
+&lt;br />
+Icons: &lt;span style="color: #006dda;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #006dda;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Kvantum&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436575/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel) &lt;span style="color: #006dda;"> &lt;strong>Infinity-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436583/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Plasma Color Scheme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436564/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Color Scheme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436562/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436560/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-SDDM&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436554/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436556/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Konsole&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436551/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-GTK&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436585/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #08a19d;"> &lt;strong>Starry Nebula 108 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1241434" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+__________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>If you do not use the Kvantum Theme,For Blur look of the window, Kwin Scripts:&lt;span style="color: #006dda;"> &lt;strong>Force Blur&lt;/strong> &lt;/span>, authored by &lt;span style="color: #3771c8;"> &lt;strong>ESJEON&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1294604/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/1/0/6/f5d809efb2bf7822477b4e6dd9eb182c67cca64249e15d7359ee5cfe248911921ae8.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/1/0/6/f5d809efb2bf7822477b4e6dd9eb182c67cca64249e15d7359ee5cfe248911921ae8.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDUyNTk5NjUiLCJvIjoiMSIsInMiOiI3YjNhNWI2ZDdmMzBiMjU3OWZlNmNhMTNlMjRmZmRhMWM5N2ExZmEwOTU4MzgyMzhmMmJiYjE2N2RkY2RkMjUyMDI2ODI3YWMzZDc1MWRiODViNmYxY2Y3ODAyY2EwMmY1NjhkMDQ2YWRlMjgwNzIzODA3YmFmOGJjODRjYjAxMyIsInQiOjE2MDYwMDA5OTQsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.iBp1jEn0l6dTdr-omzVcdgqdNuuttywCVjQYi1Weabw/Infinity-Plasma.zip</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Lavender-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457369</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>1309</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Lavender-Plasma</installedfile>
+  <id>1457369</id>
+  <releasedate>2021-02-02</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457364/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457363/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457366/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Infinity-Lavender-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457365/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+___________________ &lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #636393;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel) &lt;span style="color: #636393;"> &lt;strong>Lavender-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457371/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Kvantum&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457367/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Plasma Color Scheme &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457362/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Color Scheme &lt;span style="color: #636393;"> &lt;strong>Lavender-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457361/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457360/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Kvantum-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457359/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #636393;"> &lt;strong>Lavender-SDDM&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457355/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #636393;"> &lt;strong>Lavender-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457352/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #636393;"> &lt;strong>Lavender-Konsole&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457344/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #636393;"> &lt;strong>Lavender-Breeze-GTK&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457372/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Nature&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373768/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373760/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #3f808a;"> &lt;strong>Sensual-Flat-2&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1373763/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong> Celestial Silhouette 28 4K Wallpaper &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1272737/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>Plasma Desktop Wallpaper 1795 4K HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1410034" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #636393;"> &lt;strong>KDE Plasma Scenery 111 HD&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1328062/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;br />
+__________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>If you do not use the Kvantum Theme,For Blur look of the window, Kwin Scripts:&lt;span style="color: #636393;"> &lt;strong>Force Blur&lt;/strong> &lt;/span>, authored by &lt;span style="color: #3771c8;"> &lt;strong>ESJEON&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1294604/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/3/a/2/ce90751adda6bde7cb209b5d7e0b4f1a68dca3dab7d557904d7cef9ab033ae5ad7f2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/3/a/2/ce90751adda6bde7cb209b5d7e0b4f1a68dca3dab7d557904d7cef9ab033ae5ad7f2.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIyODE2NjYiLCJvIjoiMSIsInMiOiJmMzVjMzU4MzM1NDJiYTMwMTgxOWMxOWJmODM5NDBlMjhmM2NmYWExMTIwZDFkYzRmOGFiNjIyMTYxZTZmYmE1OWMwNmM1OWVjMjA2NTM3NzI4ZGUyM2E5NDk4MDNlMGY2ZDg4YTBjNWQxZTA5M2YwMGJiNjE0NjY1MzQ3MmM4OCIsInQiOjE2MTM2OTA0NDIsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.BTNN2kBeAeeGMr2RcdxNQFFRd_Dozb9AeKuJLQyi2N8/Lavender-Plasma.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>LyraX-dark Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1481623</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1008</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/LyraX-dark</installedfile>
+  <id>1481623</id>
+  <releasedate>2021-02-12</releasedate>
+  <summary>LyraX kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/b/c/8/8b2d9e4e9a937f22ef3db0a7265994ef00fb5f4efd691e802ba9df71f2c3438d1bed.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/b/c/8/8b2d9e4e9a937f22ef3db0a7265994ef00fb5f4efd691e802ba9df71f2c3438d1bed.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTMxNTgyODYiLCJvIjoiMSIsInMiOiJjNmQyZDI4MWI5NDg2MmNhMzgzNmZlOGU4MGI2NDc4NzE4YzJiYmRhYzhjNTlhNDUyM2U2ZmRiMzgwZDU3YjAwNjhkM2IxNDU5YzA4YzEyZmZmODA1YTBhMmQ2OGM0NzUxZjc0YTk5ZjUyZDRkOGIxY2I5ZjZjYzg1Njc0OGQ5YyIsInQiOjE2MTM1MzYzMTgsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.mh8PrHBTZbiwETqr5k9C15WQWbnmSFTPlEwIs4QMS4c/LyraX-dark.zip</payload>
+  <tags>linux,gplv3,kde,unix,plasma,original-product,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Reversal-dark Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1471821</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>1434</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Reversal-dark</installedfile>
+  <id>1471821</id>
+  <releasedate>2021-02-06</releasedate>
+  <summary>Reversal kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+    &lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/3/e/c/2658f27899994651966a2a0f3b05ace1182a34373c88fee55a81b57fc178732359af.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/3/e/c/2658f27899994651966a2a0f3b05ace1182a34373c88fee55a81b57fc178732359af.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI2MzczMTYiLCJvIjoiMSIsInMiOiIzZmZjOTM4ODI1MzMyZjViN2EzMWZkM2UyZmNlNWIxYjA0YjI3NmJmMTQ1NjM0YWU5MTk1OWJjNmFkZTE2YWRlM2I5MGJlZDc4Mjc1MTZkNGU3MDhjNzgzOWMyMTllZDBmZjI2N2NmMzdmNzFjMzI0MzEwZTg4MWEzZTM1YzkyYiIsInQiOjE2MTM1MzYzMzIsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.Ngc8nkaUqw2MN4Wr81LeCMYyc1DlzpxsYX3QmUDRm1g/Reversal-dark.zip</payload>
+  <tags>gplv3,linux,kde,original-product,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>ROUNDED</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1352754</homepage>
+  <licence></licence>
+  <version>20201125</version>
+  <rating>88</rating>
+  <downloads>12221</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/ROUNDED-DARK</installedfile>
+  <id>1352754</id>
+  <releasedate>2020-11-25</releasedate>
+  <summary>Plasma Theme inspired by Breeze style.&lt;br />
+All elements &amp;amp; icons have rounded corners.&lt;br />
+Available 3 version:&lt;br />
+- Light&lt;br />
+- Dark&lt;br />
+- Color (with full support KDE Color Scheme)&lt;br />
+&lt;br />
+Wallpaper - Space Plasma by antechdesigns:&lt;br />
+https://www.pling.com/p/1243989/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/6/d/d/4c8201556ba7dff51791e53b38d63c7b9e5b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/6/d/d/4c8201556ba7dff51791e53b38d63c7b9e5b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDYyOTU4MjgiLCJvIjoiMSIsInMiOiI2MGFhMzM0N2I2YmJiOWQ3Y2IwYmE2YzY2MjFjOTQ4N2QwNjJhNzdjNjFiZDk2NDNhNTk3ZDg5OGNhZDk5ZjcxNjQ0Yjc3Nzg5YTBlNjU0NTBiYmJkNTg1ODEyMGMxNWEwNDk5ZmM2ZWQzMmQ0MWQzNjdiODEzODMwZTVhNzJmYiIsInQiOjE2MTM1MzYzODksInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.lFHqrjguSYpIu5TTFt8Jt2sHjDeRQtJEKswyqC35rWo/ROUNDED-DARK.tar.gz</payload>
+  <tags>plasma,rounded,unix,original-product,theme,linux,gplv3,kde,breeze</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Klorax. Dracula Transparent</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>klorax</author>
+  <homepage>https://store.kde.org/p/1314835</homepage>
+  <licence></licence>
+  <version>2.0.0</version>
+  <rating>58</rating>
+  <downloads>2470</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/klorax.dracula-transparent</installedfile>
+  <id>1314835</id>
+  <releasedate>2019-10-07</releasedate>
+  <summary>This is part of the &lt;a href="https://www.pling.com/c/1316008/" target="_blank" rel="nofollow">Dracula Theme Suite&lt;/a>&lt;span style="color: #ff5555;">*&lt;/span> by &lt;a href="https://www.pling.com/u/klorax/" target="_blank" rel="nofollow">Klorax&lt;/a>: &lt;span style="color: #bd93f9;">&lt;em>&lt;strong>Dark and...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/d/0/2/fbcec5b8df5711724525d0ee937a8cc7e86d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/d/0/2/fbcec5b8df5711724525d0ee937a8cc7e86d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA0ODEzNjAiLCJvIjoiMSIsInMiOiIzOTFiMGYxZjllZGM3Y2ZhZGJkYWEwNTVjZTlhNzRmYmFmZDczZDZjZGI3YzIxZDhiNzIwNjdlYzNjZDQyODg4YTkzZGY0YzE3YmUzZjZmNWIxNTJhMzJjOTg0ZTk0MDQ3OWJjOWVmN2Q5OTY5NmNmOGM3Y2E1NDZlZDdlZTM5OCIsInQiOjE2MjI3OTk2ODAsInN0ZnAiOm51bGwsInN0aXAiOiI4MC43OC4wLjE0NCJ9.hkTOEfbhhVAJ41uS-W_KNjCg5rQyBLZKfu6OnkVa32M/klorax.dracula-transparent_v2.0.0.tar.xz</payload>
+  <tags>purple,plasma,plasma##majorversion=5,unix,vampire,theme,original-product,kde,dark,dracula,gplv3,gray,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Inspiration</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1318937</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>6959</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/desktoptheme/Inspiration</installedfile>
+  <id>1318937</id>
+  <releasedate>2019-12-12</releasedate>
+  <summary>&lt;strong>Blur and Transparent Dark Plasma Theme. It dominates a Very dark (mostly black) blue (Panel Background, Background Dialogs, Tooltip ...), in combination with Dark cyan, Pure (or mostly pure) cyan and  Moderate blue color.&lt;br />
+&lt;br />
+&lt;span style="color: teal;"> &lt;strong>Icons:&lt;/strong>...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/4/a/1683c0b40d17afb8dac051e4808ad2b65601.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/4/a/1683c0b40d17afb8dac051e4808ad2b65601.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzYxNTY0NTIiLCJvIjoiMSIsInMiOiIxNDU3MjkxMDI1ZGE1MGQyMzMwODBjMzg4NGY4ZDhlMTIwMDM5OTY0NGY0ODM0ZTY0Mzc1NWFkNTc1NDBkNzY0NDBjZjcwMzVmM2E4OGE5YzAwZGZiNjJjYjQ4M2YzMjBiNzVlNDUwMTkzN2JmNzU1ZjM5MWY5ZmE1MWIwODdmNSIsInQiOjE2MTM1MzY0MTEsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.0VJBXro94Pc5n18j_1WYLN6KlZ-I53toeYOnCRMUrGI/Inspiration.zip</payload>
+  <tags>kde,linux,gplv3,modification-product,plasma,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

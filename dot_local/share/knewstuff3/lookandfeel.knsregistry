@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Lavender-Global</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457371</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>733</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/look-and-feel/Lavender-Global</installedfile>
+  <id>1457371</id>
+  <releasedate>2021-02-02</releasedate>
+  <summary>&lt;strong>Dark Global Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457364/" target="_blank" rel="nofollow">&lt;span style="color: red;">...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/2/8/e/7a6725bbbcaa058124bfceeccda4bc6509241d619991b6c5f71638883e6a6d8bdebd.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/2/8/e/7a6725bbbcaa058124bfceeccda4bc6509241d619991b6c5f71638883e6a6d8bdebd.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIyODE4NDgiLCJvIjoiMSIsInMiOiJhY2Q0OTM3ODlhODU4YTU1NGU1YjA1YzllMTNkYjFhZDk0NWQyNzRlMDU0OGQ0ZmM5MmIxMjBjMWRjOWM0ZjZlYWZhZDFmMDdhMDc5ZDk3YjNmNGM2YWVmMzdkZWM3ZWYyYTI4NDgzYjAyNWEyYTc3MDFhYzAyOWUxOGI1NjkzOSIsInQiOjE2MTM2OTA0MjYsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.WTrX4d0TjYKl9-RPzkPxHDmxWAcQ9bqR9Wp3ccWibMQ/Lavender-Global.zip</payload>
+  <tags>original-product,gplv3,linux,unix,theme,kde,plasma,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Reversal Global Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1471823</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>1456</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/look-and-feel/com.github.yeyushengfan258.Reversal-dark</installedfile>
+  <id>1471823</id>
+  <releasedate>2021-02-06</releasedate>
+  <summary>Reversal kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+    &lt;br />
+    &lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/1/a/7/45acdbf6a06591854a300e862a07f9fc3940cdd2cad9a6f29f5dd7545389151b9871.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/1/a/7/45acdbf6a06591854a300e862a07f9fc3940cdd2cad9a6f29f5dd7545389151b9871.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI2Mzc0ODciLCJvIjoiMSIsInMiOiJmOWIwNzEwNGVjNmFlMmU2MWQ2NTYwOTdlZTQxZDExNmEzODkzZmJlMDJiODg2YWI1ZTlmNDcwNmZhNzkzYmEwZjVkZTEwMzcwYjFjMDRhMmViOWViNjllZDllMjU2MzgyNDQ5NGVjZjk2YTU2ODcxYWEwNDNmZmE2NTk1YjdiMSIsInQiOjE2MTM2NzcyMDYsInN0ZnAiOm51bGwsInN0aXAiOiI4OC4xNjQuMTAuMTIzIn0.di14v0BPyki1bTU8Lmuds8DFfXvztZA71zkX8PvHWM4/com.github.yeyushengfan258.Reversal-dark.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,look-and-feel,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Edna</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1367060</homepage>
+  <licence></licence>
+  <version>2.1</version>
+  <rating>65</rating>
+  <downloads>6480</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/look-and-feel/Edna</installedfile>
+  <id>1367060</id>
+  <releasedate>2020-10-10</releasedate>
+  <summary>Look and feel theme for Edna Plasma.&lt;br />
+&lt;br />
+Edna Plasma theme: https://www.pling.com/p/1117813/&lt;br />
+&lt;br />
+Edna Kvantum theme: https://www.pling.com/p/1367055/&lt;br />
+&lt;br />
+Edna color schemes: https://www.pling.com/p/1158510/&lt;br />
+&lt;br />
+Edna Aurorae theme:...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/f/a/6/c540475f5c5a0a721cf19960f72901fbed77.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/f/a/6/c540475f5c5a0a721cf19960f72901fbed77.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDIzNDEzNDAiLCJvIjoiMSIsInMiOiI1YTU0YWYxOWZjZDQ1MWI2NWY0ZWM3NDQyNTllNDVmZDFlNDY0ZDRhNGY4Yjk0MzI0ZmI5ODI0ZjBjZjgwMjg2NDI3NjE4ZTgwNmYyMDk0MTYyMDdkYzA5YTYxZTk5NTBhM2IzZTE5Zjg3NmMzMzU2ZTQxODNiYmJmM2FjZWEwOSIsInQiOjE2MDYwMDM5MDgsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.Ybf23RdPSN_gR6stWLIyBEeSsXzAs3u8d7iZWwOxeRo/Edna.tar.gz</payload>
+  <tags>lgplv3,linux,unix,theme,kde,plasma,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Infinity-Global</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436583</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>70</rating>
+  <downloads>3392</downloads>
+  <installedfile>/home/speykious/.local/share/plasma/look-and-feel/Infinity-Global</installedfile>
+  <id>1436583</id>
+  <releasedate>2020-11-13</releasedate>
+  <summary>&lt;strong>Dark Global Theme, Transparent and Blur.&lt;br />
+___________________________________________&lt;br />
+&lt;br />
+Dark Global Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1439913/" target="_blank" rel="nofollow">&lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/1/0/6/f5d809efb2bf7822477b4e6dd9eb182c67cc907d72c26ad8258a7e31c476e59f7293.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/1/0/6/f5d809efb2bf7822477b4e6dd9eb182c67cc907d72c26ad8258a7e31c476e59f7293.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDUyNzc5NDAiLCJvIjoiMSIsInMiOiIyM2UxYjRlMGNmZjA3ZjYxZDJjMjE1NWQyOTk3N2ZjNzEzZWEyODA1ZjU5NTE3YjE3NzE3MDM4ZDY2MDgyNzBhMmFkYzM1MTAwYWE0YzY3MTdiZjhhYTkxZmRhYmFmNThkODE1NmVlOGRhN2RjM2IxOTYzNzBjZmU0NjI3ZWM3MyIsInQiOjE2MDYwMDA5ODYsInN0ZnAiOm51bGwsInN0aXAiOiI4Mi4yMjUuMTY2LjU3In0.GzcFtYg6fyXU8Lydpj_vtg2PyZZZJcpQtcjPmvSTG1k/Infinity-Global.zip</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
