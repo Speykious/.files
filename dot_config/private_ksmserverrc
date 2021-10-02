@@ -1,0 +1,29 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101b416e135160000163312127200000011450005
+clientId2=101b416e135160000163212215300000012310007
+clientId3=101b416e135160000163309155900000011520008
+clientId4=101b416e135160000163312129700000011450011
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kmix_101b416e135160000163212215300000012310007_1633145999_239001
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kmix
+program3=/usr/bin/korgac
+program4=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,101b416e135160000163312127200000011450005_1633145999_238136
+restartCommand2=/usr/bin/kmix,-session,101b416e135160000163212215300000012310007_1633145999_239001
+restartCommand3=/usr/bin/korgac,-session,101b416e135160000163309155900000011520008_1633145999_238689
+restartCommand4=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=speykious
+userId2=speykious
+userId3=speykious
+userId4=speykious

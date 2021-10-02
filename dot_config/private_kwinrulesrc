@@ -1,0 +1,12 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Window settings for osu!
+blockcompositing=true
+blockcompositingrule=2
+wmclass=osu!
+wmclassmatch=1
+
+[General]
+count=1

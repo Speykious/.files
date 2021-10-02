@@ -1,0 +1,171 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=30,30,45
+BackgroundNormal=30,30,45
+DecorationFocus=153,167,188
+DecorationHover=99,99,147
+ForegroundActive=61,174,233
+ForegroundInactive=166,172,186
+ForegroundLink=149,149,221
+ForegroundNegative=255,0,127
+ForegroundNeutral=113,168,168
+ForegroundNormal=195,199,209
+ForegroundPositive=0,170,127
+ForegroundVisited=113,168,168
+
+[Colors:Complementary]
+BackgroundAlternate=30,30,45
+BackgroundNormal=30,30,45
+DecorationFocus=153,167,188
+DecorationHover=85,85,127
+ForegroundActive=68,137,206
+ForegroundInactive=166,172,186
+ForegroundLink=149,149,221
+ForegroundNegative=170,170,255
+ForegroundNeutral=85,170,255
+ForegroundPositive=170,85,255
+ForegroundVisited=0,120,241
+
+[Colors:Selection]
+BackgroundAlternate=29,153,243
+BackgroundNormal=113,113,168
+DecorationFocus=153,167,188
+DecorationHover=99,99,147
+ForegroundActive=252,252,252
+ForegroundInactive=211,218,227
+ForegroundLink=149,149,221
+ForegroundNegative=255,0,127
+ForegroundNeutral=113,168,168
+ForegroundNormal=22,22,29
+ForegroundPositive=0,170,127
+ForegroundVisited=113,168,168
+
+[Colors:Tooltip]
+BackgroundAlternate=30,30,45
+BackgroundNormal=30,30,45
+DecorationFocus=153,167,188
+DecorationHover=99,99,147
+ForegroundActive=61,174,233
+ForegroundInactive=166,172,186
+ForegroundLink=149,149,221
+ForegroundNegative=255,0,127
+ForegroundNeutral=113,168,168
+ForegroundNormal=211,218,227
+ForegroundPositive=0,170,127
+ForegroundVisited=113,168,168
+
+[Colors:View]
+BackgroundAlternate=30,30,45
+BackgroundNormal=23,23,34
+DecorationFocus=153,167,188
+DecorationHover=99,99,147
+ForegroundActive=0,193,228
+ForegroundInactive=166,172,186
+ForegroundLink=149,149,221
+ForegroundNegative=255,0,127
+ForegroundNeutral=113,168,168
+ForegroundNormal=211,218,227
+ForegroundPositive=0,170,127
+ForegroundVisited=113,168,168
+
+[Colors:Window]
+BackgroundAlternate=30,30,45
+BackgroundNormal=26,26,38
+DecorationFocus=153,167,188
+DecorationHover=99,99,147
+ForegroundActive=61,174,233
+ForegroundInactive=166,172,186
+ForegroundLink=149,149,221
+ForegroundNegative=255,0,127
+ForegroundNeutral=113,168,168
+ForegroundNormal=211,218,227
+ForegroundPositive=0,170,127
+ForegroundVisited=113,168,168
+
+[DirSelect Dialog]
+DirSelectDialog Size=858,598
+History Items[$e]=file:$HOME/Videos/obs-recordings,file:$HOME/Videos/obs-recordings,file:$HOME/Videos/obs-recordings,file:///run/media/speykious/All my life/Virtualboxes,file:$HOME/Downloads/Lavender-Kvantum,file:$HOME/Downloads/Reversal-dark,file:$HOME/Downloads/noteblockoding-parts,file:$HOME/Videos/obs-recordings,file:$HOME/Downloads/Edna
+
+[General]
+BrowserApplication=brave-browser.desktop
+ColorScheme=LavenderDarkColor
+Name=Breeze Dark
+TerminalApplication=alacritty
+TerminalService=Alacritty.desktop
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=JetBrainsMono Nerd Font,10,-1,5,50,0,0,0,0,0
+font=Roboto,11,-1,5,50,0,0,0,0,0
+menuFont=Roboto,11,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
+smallestReadableFont=Roboto,8,-1,5,50,0,0,0,0,0
+toolBarFont=Roboto,11,-1,5,50,0,0,0,0,0
+widgetStyle=Breeze
+
+[Icons]
+Theme=Reversal-black
+
+[KDE]
+ColorScheme=Breeze
+LookAndFeelPackage=org.kde.breezedark.desktop
+ShowDeleteCommand=false
+SingleClick=false
+contrast=4
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=134
+View Style=DetailTree
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=30,30,45
+activeBlend=30,30,45
+activeFont=Roboto,11,-1,5,50,0,0,0,0,0
+activeForeground=211,218,227
+inactiveBackground=30,30,45
+inactiveBlend=30,30,45
+inactiveForeground=166,172,186

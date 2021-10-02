@@ -1,0 +1,13 @@
+[activities]
+471d9930-4e97-4138-bdf0-483ef8c912a2=Main
+ce8bfbf8-03be-4e55-861f-39422158203b=Code
+
+[activities-descriptions]
+ce8bfbf8-03be-4e55-861f-39422158203b=Programming
+
+[activities-icons]
+471d9930-4e97-4138-bdf0-483ef8c912a2=distributor-logo-archlinux
+ce8bfbf8-03be-4e55-861f-39422158203b=vscode
+
+[main]
+currentActivity=471d9930-4e97-4138-bdf0-483ef8c912a2

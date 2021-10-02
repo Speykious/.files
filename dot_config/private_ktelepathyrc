@@ -1,0 +1,15 @@
+[File Transfers]
+alwaysAsk=false
+autoAccept=false
+downloadDirectory=/home/speykious/Downloads
+
+[KDED]
+autoAwayEnabled=true
+autoConnect=false
+autoXAEnabled=true
+awayAfter=5
+awayMessage=
+screenSaverAwayEnabled=true
+screenSaverAwayMessage=
+xaAfter=15
+xaMessage=
